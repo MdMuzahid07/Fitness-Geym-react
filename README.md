@@ -1,13 +1,15 @@
-Laptop Galexy -(MERN)
+Fitness Gym -
 
-inventory management website
-
+Independence service provider website
+------------------------------------------------------------
 User Authentication implement with firebase
 
-Product Upload, Update, Delete, Read (CRUD) functionality
+User can add service and get service
 
 Responsive Designed
 
+
 Used technologies
-------------------------------------------------------
-React-JS, Express-JS, Node-JS, MongoDB, Tailwind-CSS, DaisyUI, firebase, React Router, React hooks form, React Firebase Hooks, React Toastify ... 
+-------------------------------------------------------------
+
+React-JS, Tailwind-CSS, DaisyUI, firebase, React Router, React Firebase Hooks
